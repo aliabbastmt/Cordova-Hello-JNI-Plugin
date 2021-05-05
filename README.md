@@ -1,0 +1,1 @@
+# Cordova-Hello-JNI-Plugin
