@@ -1,0 +1,13 @@
+{
+  "name": "cordova-hello-jni-plugin",
+  "version": "0.7.0",
+  "description": "A simple example of a cordova plugin that utilizes the Android NDK",
+  "cordova": {
+    "id": "com.example.hello",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "",
+  "license": "ISC"
+}
